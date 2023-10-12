@@ -8,3 +8,5 @@ Although the implementation of existing machine learning methods provided us wit
 To improve our prediction models, we use BERT in our new project.
 This project produces a code file with a file extension ‘.ipynb’ (CNARSP_v1.ipynb). 
 The code is written in a scripting language (‘python’ version 3.6.5 or above) using open-source machine learning (‘scikit-learn’) and Natural Language Processing (‘Transformers’) packages and the pre-trained language model BERT (BERT-base). The code set is named ‘CNARS/P’ (Classification of Narratives in Survey Data with Pre-trained language models).
+
+For details about the code and step-by-step guide for implementation, see the report "C-NARS/P: An Open-Source Tool for Classification of Narratives in Survey Data Using Pre-Trained Language Models" at https://dx.doi.org/10.7302/8676 or https://hdl.handle.net/2027.42/178287
